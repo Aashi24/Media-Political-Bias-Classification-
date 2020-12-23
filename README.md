@@ -24,20 +24,18 @@ Right Wing -
 
 ## Project Tasks
 
-I.  Data Extraction
+Details in the notebook
 
-II. Data Preprocessing
+I.   Data Extraction
+
+II.  Data Preprocessing
 
 III. Exploratory Data Analysis
 
-IV. Modeling and Prediction
+IV.  Modeling and Prediction
 
-We convert the articles into vector embeddings using two methods the Word2Vec (300 features) and Universal Sentence Encoder (512 features). We then visualize these embeddings by converting the features into a 2 dimentional space using t-SNE.
-We trained a Logistic Regression and a Deep Learning model to predict the bias of a given article from the test set
+V.   Conclusion
 
-V. Conclusion
-
-Discussion on which model performs better and why.
 
 ## Results
 
